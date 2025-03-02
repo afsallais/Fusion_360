@@ -1,2 +1,4 @@
 # Fusion_360
-This repo holds fusion 360 projects
+Author: Afsal Lais
+Email: afsallais@gmail.com
+Details: This repo holds fusion 360 projects.
